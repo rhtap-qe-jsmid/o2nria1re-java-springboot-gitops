@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: o2nria1re-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/o2nria1re-java-springboot-gitops
